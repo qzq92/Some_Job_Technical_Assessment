@@ -19,15 +19,15 @@ You can **assume that the total number of staff in the company is 2000 and the d
 
 #### Question 1.1
 
-Write code preferably in R or Python to process and organise the raw data (‘Access_data.zip’) to make it suitable for analysis. Identify and resolve the data quality issues in the raw data, if any. (The created code should allow user to efficiently and easily run it to ingest additional datasets of different period, beyond the given sample.)
+Write code preferably in **R or Python** to process and organise the raw data (*Access_data.zip*) to make it suitable for analysis. **Identify and resolve the data quality issues** in the raw data, if any. (The created code should **allow user to efficiently and easily run it to ingest additional datasets of different period, beyond the given sample.**)
 
 #### Question 1.2
 
-Using the prepared data from question 1.1, create dashboard(s) for end-users to self-serve to report and make decisions on the following issues on a regular basis.
+Using the prepared data from question 1.1, **create dashboard(s) for end-users to self-serve to report and make decisions** on the following issues on a regular basis.
 
-a) The company’s target is to have more than 80% of staff working from home at any time.
+a) The company’s target is to have **more than 80% of staff working from home at any time.**
 
-b) For those staff who are not able to work from home, the company wants to know how many days per week are they coming in and to stagger their work hours and ensure an even proportion are coming in at the three different time slots. The proportion should roughly be 1/3 for each slot.
+b) For those staff who are not able to work from home, the company wants to know **how many days per week are they coming in** and to **stagger their work hours and ensure an even proportion are coming in at the three different time slots**. The proportion should roughly be **1/3 for each slot**.
 
 i. 0700 to 0829
 
@@ -35,12 +35,12 @@ ii. 0830 to 0929
 
 iii. 0930 to 1030
 
-c) For individuals issued with Temp or Visitor Pass, the company wants to know the number at each office site.
+c) For individuals issued with **Temp or Visitor Pass**, the company wants to **know the number at each office** site.
 
 
 ### Section 2
 
-You would have received a US_Arrest_Data.zip file with 8 datasets in .csv format and 3 data dictionaries in .docx format. You may or may not use all the datasets during this assessment.
+You would have received a *US_Arrest_Data.zip* file with 8 datasets in .csv format and 3 data dictionaries in .docx format. You may or may not use all the datasets during this assessment.
 
 #### Question 2.1
 
@@ -54,7 +54,7 @@ Dataset: USArrest.csv (main). You may wish to use the other datasets to enhance 
 
 ----------------------------------------------------------------------
 
-Please upload your findings, responses and code to your Google Drive or Dropbox, and send us the link as part of your answer by 13 Jun, Monday 6pm (within 5 days from date of releasing the questions).
+Please upload your findings, responses and code to your Google Drive or Dropbox, and send us the link as part of your answer by 06 Dec, Wednesday (within 5 days from date of releasing the questions).
 
 · Your code (with code comment) in ipynb or Rmd (html), output, Tableau twbx, etc. in response to questions in Section 1; and
 
