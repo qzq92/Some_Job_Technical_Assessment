@@ -7,13 +7,16 @@ This repository contains the work done as part of assessment requirement. The fo
 
 You would have received a Access_data.zip file with 22 datasets in .csv format and 1 data dictionary in .docx format. The datasets are sample of the mock-data on individuals accessing two office sites of Company ABC, consisting of:
 
-i. When
+1. When: Time of entry by the individual
 
-ii. Profile
+2. Profile: Type of access card
+    -	0 - Staff Pass
+    -	1 - Temp Pass
+    -	2 - Visitor Pass
 
-iii. Dept
+3. Dept: Department of the individual
 
-iv. CardNum
+4. CardNum: Card unique identifier. The length of the card number cannot be less than 8 characters. Currently, if CardNum starts with a/multiple ‘0’, the data captured in system will exclude/remove the “0”.
 
 You can **assume that the total number of staff in the company is 2000 and the data is extracted from the company’s building access system. An individual can tap in and out several times within the same day. When the individual first clock in, that would be the earliest time slot and the only record you will base off the analysis.** (You can also state your other assumptions if need be.)
 
